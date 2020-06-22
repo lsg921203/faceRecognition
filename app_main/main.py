@@ -11,6 +11,6 @@ def main():
     root = tk.Tk()
     fd_service = fds.FaceDetectService(img_path)
     app = win.AppWindow(root, "650x500+100+100",img_path)
-    mkw.make(app=app , fd_service)
+    mkw.make(app=app , fd_service)#안녕
     s.service() # ui event 와 상관없이 수행해야하는 기능
     app.mainloop()
