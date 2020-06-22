@@ -11,10 +11,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="55bb855b-0581-484c-b518-1c71aaf2e084" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app_main/face_detect_service.py" beforeDir="false" afterPath="$PROJECT_DIR$/app_main/face_detect_service.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app_main/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/app_main/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app_main/main_ui.py" beforeDir="false" afterPath="$PROJECT_DIR$/app_main/main_ui.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app_main/make_widgets.py" beforeDir="false" afterPath="$PROJECT_DIR$/app_main/make_widgets.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,14 +44,15 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Playdata\Desktop\sung\python_sung\faceRecognition" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Playdata\Desktop\sung\python_sung\faceRecognition\img" />
+      <recent name="C:\Users\Playdata\Desktop\sung\python_sung\faceRecognition\dataset\sooji" />
+      <recent name="C:\Users\Playdata\Desktop\sung\python_sung\faceRecognition\dataset\kkobook" />
       <recent name="C:\Users\Playdata\Desktop\sung\python_sung\faceRecognition" />
       <recent name="C:\Users\Playdata\Desktop\sung\python_sung\faceRecognition\classfier" />
-      <recent name="C:\Users\Playdata\Desktop\sung\python_sung\faceRecognition\app_main\img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Playdata\Desktop\sung\python_sung\faceRecognition" />
     </key>
   </component>
   <component name="RunManager">
@@ -107,21 +108,25 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state width="1515" height="210" key="GridCell.Tab.0.bottom" timestamp="1592795738031">
+    <state width="1100" height="210" key="GridCell.Tab.0.bottom" timestamp="1592822666070">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1592795738031" />
-    <state width="1515" height="210" key="GridCell.Tab.0.center" timestamp="1592795738031">
+    <state width="1100" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1592822666070" />
+    <state width="1100" height="210" key="GridCell.Tab.0.center" timestamp="1592822666070">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1592795738031" />
-    <state width="1515" height="210" key="GridCell.Tab.0.left" timestamp="1592795738031">
+    <state width="1100" height="210" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1592822666070" />
+    <state width="1100" height="210" key="GridCell.Tab.0.left" timestamp="1592822666070">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1592795738031" />
-    <state width="1515" height="210" key="GridCell.Tab.0.right" timestamp="1592795738031">
+    <state width="1100" height="210" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1592822666070" />
+    <state width="1100" height="210" key="GridCell.Tab.0.right" timestamp="1592822666070">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1592795738031" />
+    <state width="1100" height="210" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1592822666070" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1592806480192">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1592806480192" />
   </component>
 </project>

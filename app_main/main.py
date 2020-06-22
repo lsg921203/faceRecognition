@@ -7,7 +7,7 @@ import app_main.face_detect_service as fds
 
 
 def main():
-    img_path = "img/IU2.jpg"
+    img_path = "img/kkobook9.jpg"
     root = tk.Tk()
     fd_service = fds.FaceDetectService(img_path)
     app = win.AppWindow(root, "650x500+100+100",img_path)
