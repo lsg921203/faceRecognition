@@ -29,7 +29,7 @@ class FaceDetectService:
 
         for (x, y, w, h) in self.face:
 
-            cv2.rectangle(img, (x,y), (x+w,y+h),(255, 0, 0), 2)
+            cv2.rectangle(img, (x,y), (x+w,y+h),(0, 0, 255), 4)
 
         self.res = img
 

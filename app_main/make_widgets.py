@@ -5,7 +5,7 @@ def btn1_clicked(app, service, event):
     print (event)
     flag = service.face_detect()
     if flag:
-        pass
+        app.change_img(service.res)
 def btn2_clicked():
     print ("btn2_clicked")
 
