@@ -31,3 +31,10 @@ class AppWindow(tk.Frame): #frame
         self.frame.pack()
         self.sub_fr = tk.Frame(self.master)
         self.sub_fr.pack()
+
+    def change_img(self, res):
+        res = cv2.resize(res, (640,400))
+        img = cv2.cvtColor(res, cv2.COLOR_BGR2RGB)
+        img = Image.fromarray(img)
+        self.src = ImageTk.PhotoImage(image=img)
+        self.frame['image'] = self.src
