@@ -6,7 +6,7 @@ from PIL import ImageTk
 
 
 class AppWindow(tk.Frame): #frame
-    def __init__(self,master=None, size=None):
+    def __init__(self,master=None, size=None, path=None):
         super().__init__(master)
         self.master = master
         self.master.geometry(size)
@@ -15,7 +15,7 @@ class AppWindow(tk.Frame): #frame
         self.sub_fr = None#하위 프레임
         self.src = None
         self.frame = None # tk의 label에 출력한 영상
-        self.create_widgets()
+        self.create_widgets(path)
 
     def make_img(self, path):
         src = cv2.imread(path)
